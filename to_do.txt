@@ -5,7 +5,8 @@
 
 Do projektu:
 
-Tworzymy zawody konkursu skoków. Na starcie mamy 20 zawodników, z czego połowa bedzie kwalifikować sie do 2 serii. 
-Wprowadzamy na poczatku punkt konstrukcyjny skoczni, odległość 1 skoku danego zawodnika, nastepnie program automatycznie losuje punkty za wiatr w przedziale od (-10 10)  oraz notę za styl w przedziale (51,57). 
-Po wprowadzeniu 20 zawodników program ponownie poprosi nas o podanie odległości z 2 serii ale tylko 10 zawodnikom z największą ilościa punktów. 
+Tworzymy zawody konkursu skoków. Na starcie mamy 10 zawodników, z czego połowa bedzie kwalifikować sie do 2 serii. 
+Wprowadzamy na poczatku punkt konstrukcyjny skoczni, następnie Imię, Nazwisko, Kraj oraz Odległość 1 skoku danego zawodnika. 
+Nastepnie program automatycznie losuje punkty za wiatr w przedziale od (-10 10)  oraz notę za styl w przedziale (51,57) i wylicza sumę punktów za skok.
+Po wprowadzeniu 10 zawodników program ponownie poprosi nas o podanie odległości z 2 serii ale tylko 5 zawodnikom z największą ilością punktów. (pozostali zawodnicy zakończą zawody z notą z 1 serii) 
 Następnie program zsumuje ilośc punktów zawodników, zapisze wszystkie dane do pliku i wyświetli top 3 zawodników w zawodach
