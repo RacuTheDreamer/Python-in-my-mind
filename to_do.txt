@@ -10,3 +10,7 @@ Wprowadzamy na poczatku punkt konstrukcyjny skoczni, następnie Imię, Nazwisko,
 Nastepnie program automatycznie losuje punkty za wiatr w przedziale od (-10 10)  oraz notę za styl w przedziale (51,57) i wylicza sumę punktów za skok.
 Po wprowadzeniu 10 zawodników program ponownie poprosi nas o podanie odległości z 2 serii ale tylko 5 zawodnikom z największą ilością punktów. (pozostali zawodnicy zakończą zawody z notą z 1 serii) 
 Następnie program zsumuje ilośc punktów zawodników, zapisze wszystkie dane do pliku i wyświetli top 3 zawodników w zawodach
+
+Zabezpieczenia:
+
+Po każdej operacji wpisania zawodnika w programie należy zapytać czy uzytkownik chce wprowadzic następnego zawodnika czy zakonczyc program i zapisać dane do pliku.
