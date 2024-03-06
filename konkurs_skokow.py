@@ -32,12 +32,11 @@ while True:
 
     print("\nCzy chcesz powtórzyć operację?")
     print("1. Tak")
-    print("2. Wyjdź z programu")
     wybor = input("Twój wybór: ")
 
     if wybor == "1":
         continue 
-    elif wybor == "2":
-        break  
     else:
-        print("Niepoprawny wybór. Spróbuj ponownie.")
+        break
+
+        
