@@ -1,2 +1,11 @@
 1) Utwórz program który działa jak paragon tj. podaje się nazwe produktów i ich cenę. Program zapisuje te dane do pliku, a na końcu wyświetla paragon z wybranych produktów.
 2) Mamy 2 pliki tekstowe w której znajdują się produkty. Mamy je zaczytać, zsumować produkty o tej samej nazwie i wypisać zliczoną sumę produktów na ekranie.
+
+
+
+Do projektu:
+
+Tworzymy zawody konkursu skoków. Na starcie mamy 20 zawodników, z czego połowa bedzie kwalifikować sie do 2 serii. 
+Wprowadzamy na poczatku punkt konstrukcyjny skoczni, odległość 1 skoku danego zawodnika, nastepnie program automatycznie losuje punkty za wiatr w przedziale od (-10 10)  oraz notę za styl w przedziale (51,57). 
+Po wprowadzeniu 20 zawodników program ponownie poprosi nas o podanie odległości z 2 serii ale tylko 10 zawodnikom z największą ilościa punktów. 
+Następnie program zsumuje ilośc punktów zawodników, zapisze wszystkie dane do pliku i wyświetli top 3 zawodników w zawodach
