@@ -1,0 +1,1 @@
+1) Utwórz program który działa jak paragon tj. podaje się nazwe produktów i ich cenę. Program zapisuje te dane do pliku, a na końcu wyświetla paragon z wybranych produktów.
