@@ -1,4 +1,4 @@
-1) Utwórz program który działa jak paragon tj. podaje się nazwe produktów i ich cenę. Program zapisuje te dane do pliku, a na końcu wyświetla paragon z wybranych produktów.
+1) Plik JSON Sklep, są kategorie (owoce: 0: jablko, 1: sliwka, 2:gruszka 3:morela, warzywa(), nabial(), mieso()) i inputami pytamy klienta o dział, następnie produkt i wyświetlić mu ile jest dostępnych produktów w jakiej cenie.
 2) Mamy 2 pliki tekstowe w której znajdują się produkty (nazwa produktu i cena). Mamy je zaczytać, zsumować produkty o tej samej nazwie i wypisać zliczoną sumę produktów na ekranie.
 
 
